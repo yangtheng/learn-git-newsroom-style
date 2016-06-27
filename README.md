@@ -2,10 +2,10 @@
 
 Hey, gumshoe. You're a reporter now. If you want to make it on this job you've
 got to learn our tools. We use Git and GitHub to coordinate what we'll write in
-our daily paper every day. You'll need to work with everyone on staff to coordinate
+our daily paper every day. You'll need to get together a small staff to coordinate
 our next publication.
 
-If you're in a city with a competing newspaper try to work as fast as possible to
+If you're in a city with a competing newspapers try to work as fast as possible to
 get these tasks done, merge everything, .ZIP up your issue and Slack it out to
 the streets!
 
