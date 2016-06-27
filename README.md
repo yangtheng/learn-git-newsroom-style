@@ -3,7 +3,13 @@
 Hey, gumshoe. You're a reporter now. If you want to make it on this job you've
 got to learn our tools. We use Git and GitHub to coordinate what we'll write in
 our daily paper every day. You'll need to work with everyone on staff to coordinate
-our next publication. Well, get to it!!
+our next publication.
+
+If you're in a city with a competing newspaper try to work as fast as possible to
+get these tasks done, merge everything, .ZIP up your issue and Slack it out to
+the streets!
+
+Well, get to it!
 
 ## Assigning Roles
 
@@ -37,7 +43,8 @@ in February called "My Furry Valentine."
 nation. Can someone please get on this and tell me what the heck this is?!
 * Spider man is still on the lose harassing citizens. Someone find a picture
 of him and upload it to our spiderman folder so we have something on file the
-next time he causes us any trouble!!
+next time he causes us any trouble!! We don't need this picture to appear
+in this issue, we just need to have it on file for once.
 * Update the final score of the high school basketball game to 93-78. Moonauts
 beat the Crows.
 * Someone run down to the corner store and buy us a pack of smokes. Geez!
@@ -49,3 +56,9 @@ in so we stay on top of the ball for once.
 * Can someone sort the names of all the plants being unveiled at the greenhouse
 thing? Geez, I don't even know what any of those species are.
 
+# Publishing
+
+Once you are all finished with the required tasks and have written the paper to
+your satisfaction right-click on the `new-issue` directory, and choose
+"Compress 'new-issues'" to create a .ZIP file. send out the zipped up copy of
+your new issue to your local Slack channel to show off your publication.
