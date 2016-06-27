@@ -1,1 +1,42 @@
-# learn-git-newsroom-style
+# Learn Git Newsroom Style
+
+Hey, gumshoe. You're a reporter now. If you want to make it on this job you've
+got to learn our tools. We use Git and GitHub to coordinate what we'll write in
+our daily paper every day. You'll need to work with everyone on staff to coordinate
+our next publication. Well, get to it!!
+
+## Assigning Roles
+
+Get in a team. We need someone to report on each of these topics:
+
+* Local News
+* Sports
+* Culture
+
+We also need someone to take on a very important role:
+
+* Editor in Chief
+
+Talk among yourselves to figure out what area each of you wants to cover. And make it
+snappy! News never stops!
+
+## Editor in Chief
+
+Your responsible to review pull requests and make sure the paper stays in order.
+Don't approve any pull requets that don't merge! If something doesn't merge
+easily then send it back to the reporter who contributed the content and tell
+them to make sure they merge it with the latest copy of the paper.
+
+## Contributions & Revisions
+* The local news story about the cat stuck in a tree has an error. The name was
+completely wrong. Change all instances of "Sam Cowell" to "Henry Berringer."
+* Write a local news column about the cat show going on at city center. It's
+called "Paws at the Pumpkin Patch." Remind people there's another one coming up
+in February called "My Furry Valentine."
+* Someone needs to write a short piece about the "soduku" craze sweeping the
+nation. Can someone please get on this and tell me what the heck this is?!
+* Spider man is still on the lose harassing citizens. Someone find a picture
+of him and upload it to our spiderman folder so we have something on file the
+next time he causes us any trouble!!
+* Update the final score of the high school basketball game to 93-78. Panthers
+beat the Crows.
