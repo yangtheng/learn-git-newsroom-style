@@ -44,4 +44,6 @@ beat the Crows.
 * Anyone worth their salt should take the time to update the front page to
 tell people what's actually in this issue. Keep updating it as new stories come
 in so we stay on top of the ball for once.
-
+* Who put the board game story under sports? Move it to culture!
+* Can someone sort the names of all the plants being unveiled at the greenhouse
+thing?
