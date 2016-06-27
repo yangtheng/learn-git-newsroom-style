@@ -38,7 +38,7 @@ nation. Can someone please get on this and tell me what the heck this is?!
 * Spider man is still on the lose harassing citizens. Someone find a picture
 of him and upload it to our spiderman folder so we have something on file the
 next time he causes us any trouble!!
-* Update the final score of the high school basketball game to 93-78. Panthers
+* Update the final score of the high school basketball game to 93-78. Moonauts
 beat the Crows.
 * The weather on the front page needs updating. Can someone fill that in already?
 * Anyone worth their salt should take the time to update the front page to
