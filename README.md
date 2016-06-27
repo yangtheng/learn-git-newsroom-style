@@ -40,3 +40,8 @@ of him and upload it to our spiderman folder so we have something on file the
 next time he causes us any trouble!!
 * Update the final score of the high school basketball game to 93-78. Panthers
 beat the Crows.
+* The weather on the front page needs updating. Can someone fill that in already?
+* Anyone worth their salt should take the time to update the front page to
+tell people what's actually in this issue. Keep updating it as new stories come
+in so we stay on top of the ball for once.
+
